@@ -1,0 +1,26 @@
+{
+  "name": "bootstrap-additions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-cli": "^1.2.0",
+    "gulp-sass": "^2.1.1",
+    "gulp-static-site": "^0.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jen-driggers/bootstrap-additions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jen-driggers/bootstrap-additions/issues"
+  },
+  "homepage": "https://github.com/jen-driggers/bootstrap-additions#readme"
+}
